@@ -40,7 +40,7 @@ PRODUCT_PACKAGES += \
     vndksp.libraries.27.txt
 
 PRODUCT_PACKAGES += \
-    vndk_v27_arm64
+    vndk_v28_arm64
 
 # Name space configuration file for non-enforcing VNDK
 PRODUCT_PACKAGES += \
